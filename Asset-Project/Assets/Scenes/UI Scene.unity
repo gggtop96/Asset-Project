@@ -2703,7 +2703,7 @@ GameObject:
   - component: {fileID: 769434915}
   - component: {fileID: 769434916}
   m_Layer: 0
-  m_Name: Idle Sheet (50x50) 12334_0
+  m_Name: Character
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
